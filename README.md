@@ -1,5 +1,5 @@
 # Hand-Motion-Recognizer
-Using OpenCV and Tensorflow to detect hand motion using Computer Vision and DeepNN.
+Using OpenCV and Tensorflow to detect hand gesture using Computer Vision and DeepNN.
 
 <h2>Dependancies</h2>
 Tensorflow, Opencv,Python3
